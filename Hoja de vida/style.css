@@ -1,0 +1,37 @@
+body{
+    background:var(--body-color); 
+    background-size: 100%;
+}
+.Main{
+    background: linear-gradient(to right, rgb(117, 146, 224), white);
+    border: solid 1px black;
+    width: 60%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+fieldset{
+    background: linear-gradient(to bottom right, rgb(191, 214, 243), white);
+    font-family: 'Raleway', sans-serif;
+ 
+}
+legend{
+    font-weight: bold;
+    border-style:groove;
+    border-radius: 3px;
+}
+
+
+.h_1{
+    display: inline-flex;
+    margin-top: 0%;
+    font-family: 'Raleway', sans-serif;
+
+}
+ul{
+    font-weight:bolder;
+}
+
+.Firma{
+    font-family: 'Allison', cursive;
+}
